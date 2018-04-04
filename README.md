@@ -1,1 +1,2 @@
 # FileAndPicture
+读取二进制文件并生成指定图片
